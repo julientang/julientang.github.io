@@ -1,179 +1,132 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Julien Tang ",
+    "label": "PhD Student",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "JulienTang@lbl.gov",
+    "phone": "(510) 365-0336",
+    "url": "https://julientang.github.io//",
+    "summary": "PhD student in cosmology, working on data simulations and data analysis pipelines for next-generation CMB experiments. Working on mapmaking methods to minimize atmospheric contamination. Member of the CMB-S4 collaboration.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1 Cyclotron Rd",
+      "postalCode": "CA 94720",
+      "city": "Berkeley",
       "countryCode": "US",
       "region": "California"
-    },
-    "profiles": []
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "Laboratoire AstroParticule et Cosmologie, 75013 Paris, France (UMR 7164)",
+      "position": "PhD student in Cosmology",
+      "startDate": "2024-10",
+      "endDate": "2027-09",
+      "summary": "PhD Student in Cosmology under Jacques Delabrouille and Michel Piat. Pipeline development for next-generation CMB surveys, with a focus on atmospheric noise mitigation. Optimal internal delensing of CMB B-modes",
+      "highlights": ["Primordial Gravitational Waves", "MapMaking", "Component separation", "Lensing potential reconstruction"]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "name": "Center for Computational Cosmology, Lawrence Berkeley National Laboratory",
+      "position": "Master's Thesis",
+      "startDate": "2024-03",
+      "endDate": "2024-09",
+      "summary": "Master's Thesis work under Jacques Delabrouille and Reijo Keskitalo. Comparison of mapmaking pipelines for a CMB-S4 like SAT from Chile."
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Kavli Institute for the Physics and Mathematics of the Universe (IPMU), The University of Tokyo, Japan",
+      "position": "Research Internship",
+      "startDate": "2023-04",
+      "endDate": "2023-08",
+      "summary": "Research Internship under Josquin Errard and Tomotake Matsumura. Reconstruction of Inflationary CMB B-mode Signal in the Presence of Instrumental Effects and Galactic Foreground Emissions.",
+      "highlights": ["Parametric Component separation", "Instrumental systematics"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
+      "institution": "Université Paris Cité",
+      "location": "Paris, France",
+      "url": "https://u-paris.fr/",
+      "area": "Computational Cosmology",
       "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "startDate": "2024-10",
+      "endDate": "2027-09"
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
+      "institution": "Eidgenössische Technische Hochschule ",
       "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "url": "https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/high-energy-physics.html",
+      "area": "High Energy Physics",
+      "studyType": "Master",
+      "startDate": "2023-09",
+      "endDate": "2024-08",
+      "courses": ["General Relativity", "String Theory", "Cosmological Probes", "Symmetries in Physics"]
+    },
+    {
+      "institution": "École Polytechnique",
+      "location": "Palaiseau, France",
+      "url": "https://www.polytechnique.edu/",
+      "area": "Physics (Cycle Ingénieur Polytechnicien)",
+      "studyType": "Engineering Degree",
+      "startDate": "2020-09",
+      "endDate": "2024-08",
+      "courses": ["Cosmology", "Quantum Field Theory", "Statistical Physics", "Particle Physics", "General Relativity"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "title": "International Physicists’ Tournament’s 14th edition",
+      "date": "2022",
+      "awarder": "International Physicists’ Tournament’s Committee",
+      "url": "https://www.polytechnique.edu/en/news/french-team-wins-international-physicists-tournament-2022",
+      "summary": "The International Physicists' Tournament (IPT) is a physics competition for undergraduate students, bachelors or master level (or equivalent), in which students representing their nation and institution have typically 9 months to solve a set of challenging unsolved physics problems, then present and defend them to other teams."
     }
   ],
-  "certificates": [
+  "fellowships": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Student Fellowship",
+      "date": "2024-09-01",
+      "awarder": "Lawrence Berkeley National Laboratory",
+      "url": "",
+      "summary": "Full PhD scholarship, 2024–2027."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "title": "Full PhD Scholarship",
+      "date": "2024-09-01",
+      "awarder": "École Doctorale de l’Institut Polytechnique de Paris",
+      "url": "",
+      "summary": "Doctoral fellowship supporting graduate studies in physics, 2024–2027."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "title": "Erasmus+ Mobility Grant",
+      "date": "2023-01-01",
+      "awarder": "École Polytechnique, program KA171",
+      "url": "",
+      "summary": "International mobility grant for research and academic exchange, 2023."
     }
   ],
-  "publications": [
+  "talks": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Probing Inflation with PICO: Simulations and Delensing for CMB B-Modes",
+      "conference": "COLOURS (Cosmological Surveys and Synergies) Workshop, Orsay",
+      "releaseDate": "2025-06-10",
+      "url": "https://indico.ijclab.in2p3.fr/event/11110/contributions/37860/",
+      "summary": "Invited talk on PICO mission simulations and delensing techniques for the measurement of CMB B-modes, presented at the COLOURS workshop in Orsay."
     }
   ],
   "skills": [
     {
       "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "icon": "fa-solid fa-tag",
+      "keywords": ["High Energy Physics", "Cosmology", "Statistical Physics"]
+    },
+    {
+      "name": "Programming",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Python", "OpenMPI"]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -181,41 +134,38 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational",
+      "icon": ""
+    },
+    {
+      "language": "Mandarin",
+      "fluency": "Conversational",
+      "icon": ""
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Maths",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "keywords": ["Solving integrals https://dailyintegral.com/"]
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
-    }
-  ],
-  "projects": [
+      "name": "Music",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Violin", "Bass", "Saxophone", "Guitar"]
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "Miscellaneous",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Hiking", "Snowboarding", "Skateboarding", "Cooking", "Sleeping"]
     }
   ]
 }
