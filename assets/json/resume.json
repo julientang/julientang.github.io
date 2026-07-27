@@ -5,8 +5,8 @@
     "image": "",
     "email": "JulienTang@lbl.gov",
     "phone": "(510) 365-0336",
-    "url": "https://julientang.github.io//",
-    "summary": "PhD student in cosmology, working on data simulations and data analysis pipelines for next-generation CMB experiments. Working on mapmaking methods to minimize atmospheric contamination. Member of the CMB-S4 collaboration.",
+    "url": "https://julientang.github.io",
+    "summary": "PhD student in cosmology, working on data simulations and data analysis pipelines for next-generation CMB experiments. Working on mapmaking methods to minimize atmospheric contamination. Member of the Simons Observatory collaboration.",
     "location": {
       "address": "1 Cyclotron Rd",
       "postalCode": "CA 94720",
@@ -155,7 +155,7 @@
     {
       "name": "Maths",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Solving integrals https://dailyintegral.com/"]
+      "keywords": ["Complex Analysis", "Group Theory"]
     },
     {
       "name": "Music",
@@ -165,7 +165,7 @@
     {
       "name": "Miscellaneous",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Hiking", "Snowboarding", "Skateboarding", "Cooking", "Sleeping"]
+      "keywords": ["Hiking", "Skateboarding", "Cooking"]
     }
   ]
 }
