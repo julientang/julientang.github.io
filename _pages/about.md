@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lawrence Berkeley National Laboratory, University of California, Berkeley
 
 profile:
   align: right
