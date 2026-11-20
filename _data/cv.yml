@@ -27,7 +27,7 @@ cv:
         area: Computational Cosmology
         studyType: PhD
         start_date: 2024-10
-        end_date: 2027-10 (expected)
+        end_date: present
         score: ""
         courses: "CMB Data Analysis, Cosmological Simulations, High Performance Computing"
 
@@ -63,7 +63,7 @@ cv:
         position: PhD Student in Cosmology
         location: Paris, France
         start_date: 2024-10
-        end_date: 2027-10 (expected)
+        end_date: present
         summary: PhD Student in Cosmology under Jacques Delabrouille and Michel Piat. Pipeline development for next-generation CMB surveys, with a focus on atmospheric noise mitigation. Optimal internal delensing of CMB B-modes.
         highlights:
           - Primordial B-mode polarization
