@@ -1,10 +1,9 @@
 cv:
   name: Julien Tang
-  label: PhD Student in Cosmology
+  headline: PhD Student in Cosmology
   email: JulienTang@lbl.gov
   location: Berkeley, CA
-  image: ""
-  summary: PhD student in cosmology, working on data simulations and data analysis pipelines for next-generation CMB experiments. Working on mapmaking methods to minimize atmospheric contamination. Member of the Simons Observatory collaboration.
+  photo:
 
   social_networks:
     - network: GitHub
@@ -12,51 +11,37 @@ cv:
     - network: LinkedIn
       username: julien-tang
 
-  address:
-    street: 1 Cyclotron Rd
-    city: Berkeley
-    region: California
-    postalCode: CA 94720
-    countryCode: US
-
   sections:
+    Summary:
+      - PhD student in cosmology, working on data simulations and data analysis pipelines for next-generation CMB experiments. Working on mapmaking methods to minimize atmospheric contamination. Member of the Simons Observatory collaboration.
+
     Education:
-      - institution: Université Paris Cité
+      - institution: "[Université Paris Cité](https://u-paris.fr/)"
         location: Paris, France
-        url: https://u-paris.fr/
         area: Computational Cosmology
-        studyType: PhD
+        degree: PhD
         start_date: 2024-10
         end_date: present
-        score: ""
-        courses: "CMB Data Analysis, Cosmological Simulations, High Performance Computing"
+        highlights:
+          - "Coursework: CMB Data Analysis, Cosmological Simulations, High Performance Computing"
 
-      - institution: Eidgenössische Technische Hochschule
+      - institution: "[Eidgenössische Technische Hochschule](https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/high-energy-physics.html)"
         location: Zurich, Switzerland
-        url: https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/high-energy-physics.html
         area: High Energy Physics
-        studyType: Master
+        degree: Master
         start_date: 2023-09
         end_date: 2024-08
-        courses:
-          - General Relativity
-          - Cosmological Probes
-          - String Theory
-          - Symmetries in Physics
+        highlights:
+          - "Coursework: General Relativity, Cosmological Probes, String Theory, Symmetries in Physics"
 
-      - institution: École Polytechnique
+      - institution: "[École Polytechnique](https://www.polytechnique.edu/)"
         location: Palaiseau, France
-        url: https://www.polytechnique.edu/
         area: Physics (Cycle Ingénier Polytechnicien)
-        studyType: Engineering Degree
+        degree: Engineering Degree
         start_date: 2020-09
         end_date: 2024-08
-        courses:
-          - Cosmology
-          - General Relativity
-          - Quantum Field Theory
-          - Particle Physics
-          - Statistical Physics
+        highlights:
+          - "Coursework: Cosmology, General Relativity, Quantum Field Theory, Particle Physics, Statistical Physics"
 
     Experience:
       - company: Laboratoire AstroParticule et Cosmologie, Université Paris Cité
@@ -90,26 +75,21 @@ cv:
           - Instrumental systematics
 
     Awards:
-      - title: International Physicists’ Tournament’s 14th edition
+      - name: "[International Physicists' Tournament's 14th edition](https://www.polytechnique.edu/en/news/french-team-wins-international-physicists-tournament-2022)"
         date: 2022
-        awarder: International Physicists’ Tournament’s Committee"
-        url: https://www.polytechnique.edu/en/news/french-team-wins-international-physicists-tournament-2022
-        summary: The International Physicists' Tournament (IPT) is a physics competition for undergraduate students, bachelors or master level (or equivalent), in which students representing their nation and institution have typically 9 months to solve a set of challenging unsolved physics problems, then present and defend them to other teams.
+        summary: "International Physicists' Tournament's Committee — The International Physicists' Tournament (IPT) is a physics competition for undergraduate students, bachelors or master level (or equivalent), in which students representing their nation and institution have typically 9 months to solve a set of challenging unsolved physics problems, then present and defend them to other teams."
 
-      - title: Student Fellowship
+      - name: Student Fellowship
         date: 2024
-        awarder: Lawrence Berkeley National Laboratory
-        summary: Full PhD scholarship, 2024–2027.
+        summary: "Lawrence Berkeley National Laboratory — Full PhD scholarship, 2024–2027."
 
-      - title: Full PhD Scholarship
+      - name: Full PhD Scholarship
         date: 2024
-        awarder: École Doctorale de l’Institut Polytechnique de Paris
-        summary: Doctoral fellowship supporting graduate studies in physics, 2024–2027.
+        summary: "École Doctorale de l’Institut Polytechnique de Paris — Doctoral fellowship supporting graduate studies in physics, 2024–2027."
 
-      - title: Erasmus+ Mobility Grant
+      - name: Erasmus+ Mobility Grant
         date: 2023
-        awarder: École Polytechnique, program KA171
-        summary: International mobility grant for research and academic exchange, 2023.
+        summary: "École Polytechnique, program KA171 — International mobility grant for research and academic exchange, 2023."
 
     Publications:
       - title: Atmosphere mitigation in cosmic microwave background observations using multifrequency time-domain component separation
@@ -121,49 +101,43 @@ cv:
           - Oliver Jeong
           - Reijo Keskitalo
           - Theodore Kisner
-        publisher: arXiv
-        releaseDate: 2026-07-23
+        journal: arXiv
+        date: 2026-07-23
         url: https://arxiv.org/abs/2607.21432
         summary: First demonstration of atmosphere removal with time-domain component separation in CMB observations using a multi-frequency setup.
 
     Skills:
-      - name: Physics
-        icon: fa-solid fa-hashtag
-        keywords: "High Energy Physics, Cosmology, Statistical Physics"
+      - label: Physics
+        details: "High Energy Physics, Cosmology, Statistical Physics"
 
-      - name: Programming
-        icon: fa-solid fa-hashtag
-        keywords: "Python, OpenMPI, Bash, Git"
+      - label: Programming
+        details: "Python, OpenMPI, Bash, Git"
 
     Languages:
-      - name: French
-        summary: "Native speaker"
+      - label: French
+        details: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
+      - label: English
+        details: "Fluent"
 
-      - name: German
-        summary: "Conversational"
+      - label: German
+        details: "Conversational"
 
-      - name: Mandarin
-        summary: "Conversational"
+      - label: Mandarin
+        details: "Conversational"
 
-      - name: Japanese
-        summary: "Beginner"
+      - label: Japanese
+        details: "Beginner"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "High Energy Physics, Cosmology, Statistical Physics"
+      - label: Physics
+        details: "High Energy Physics, Cosmology, Statistical Physics"
 
-      - name: Maths
-        icon: fa-solid fa-tag
-        keywords: "Complex Analysis, Group Theory"
+      - label: Maths
+        details: "Complex Analysis, Group Theory"
 
-      - name: Music
-        icon: fa-solid fa-tag
-        keywords: "Violin, Bass, Saxophone, Guitar"
+      - label: Music
+        details: "Violin, Bass, Saxophone, Guitar"
 
-      - name: Miscellaneous
-        icon: fa-solid fa-tag
-        keywords: "Hiking, Photography, Skateboarding, Cooking"
+      - label: Miscellaneous
+        details: "Hiking, Photography, Skateboarding, Cooking"
