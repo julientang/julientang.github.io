@@ -16,8 +16,9 @@ cv:
       - PhD student in cosmology, working on data simulations and data analysis pipelines for next-generation CMB experiments. Working on mapmaking methods to minimize atmospheric contamination. Member of the Simons Observatory collaboration.
 
     Education:
-      - institution: "[Université Paris Cité](https://u-paris.fr/)"
+      - institution: Université Paris Cité
         location: Paris, France
+        url: https://u-paris.fr/
         area: Computational Cosmology
         degree: PhD
         start_date: 2024-10
@@ -25,8 +26,9 @@ cv:
         highlights:
           - "Coursework: CMB Data Analysis, Cosmological Simulations, High Performance Computing"
 
-      - institution: "[Eidgenössische Technische Hochschule](https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/high-energy-physics.html)"
+      - institution: Eidgenössische Technische Hochschule
         location: Zurich, Switzerland
+        url: https://ethz.ch/en/studies/master/degree-programmes/natural-sciences-and-mathematics/high-energy-physics.html
         area: High Energy Physics
         degree: Master
         start_date: 2023-09
@@ -34,8 +36,9 @@ cv:
         highlights:
           - "Coursework: General Relativity, Cosmological Probes, String Theory, Symmetries in Physics"
 
-      - institution: "[École Polytechnique](https://www.polytechnique.edu/)"
+      - institution: École Polytechnique
         location: Palaiseau, France
+        url: https://www.polytechnique.edu/
         area: Physics (Cycle Ingénier Polytechnicien)
         degree: Engineering Degree
         start_date: 2020-09
@@ -75,21 +78,26 @@ cv:
           - Instrumental systematics
 
     Awards:
-      - name: "[International Physicists' Tournament's 14th edition](https://www.polytechnique.edu/en/news/french-team-wins-international-physicists-tournament-2022)"
+      - name: International Physicists' Tournament's 14th edition
         date: 2022
-        summary: "International Physicists' Tournament's Committee — The International Physicists' Tournament (IPT) is a physics competition for undergraduate students, bachelors or master level (or equivalent), in which students representing their nation and institution have typically 9 months to solve a set of challenging unsolved physics problems, then present and defend them to other teams."
+        awarder: International Physicists' Tournament's Committee
+        url: https://www.polytechnique.edu/en/news/french-team-wins-international-physicists-tournament-2022
+        summary: The International Physicists' Tournament (IPT) is a physics competition for undergraduate students, bachelors or master level (or equivalent), in which students representing their nation and institution have typically 9 months to solve a set of challenging unsolved physics problems, then present and defend them to other teams.
 
       - name: Student Fellowship
         date: 2024
-        summary: "Lawrence Berkeley National Laboratory — Full PhD scholarship, 2024–2027."
+        awarder: Lawrence Berkeley National Laboratory
+        summary: Full PhD scholarship, 2024–2027.
 
       - name: Full PhD Scholarship
         date: 2024
-        summary: "École Doctorale de l’Institut Polytechnique de Paris — Doctoral fellowship supporting graduate studies in physics, 2024–2027."
+        awarder: École Doctorale de l’Institut Polytechnique de Paris
+        summary: Doctoral fellowship supporting graduate studies in physics, 2024–2027.
 
       - name: Erasmus+ Mobility Grant
         date: 2023
-        summary: "École Polytechnique, program KA171 — International mobility grant for research and academic exchange, 2023."
+        awarder: École Polytechnique, program KA171
+        summary: International mobility grant for research and academic exchange, 2023.
 
     Publications:
       - title: Atmosphere mitigation in cosmic microwave background observations using multifrequency time-domain component separation
